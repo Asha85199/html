@@ -5,18 +5,12 @@
     width: 400px;
     background-size: cover;
 }
-.platinum
-{
-    border-style: solid;
-    border-radius: 5px;
-    border-width: 3px;
-}
-.heading1
+.hello
 {
     font-family:  serif;
     color: white;
 }
-.heading4
+.heading
 {
     font-style: Roboto;
     color:white;
