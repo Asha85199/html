@@ -1,0 +1,23 @@
+.background
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png ");
+    height: 500px;
+    width: 400px;
+    background-size: cover;
+}
+.platinum
+{
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+}
+.heading1
+{
+    font-family:  serif;
+    color: white;
+}
+.heading4
+{
+    font-style: Roboto;
+    color:white;
+}

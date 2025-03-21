@@ -1,0 +1,18 @@
+.mobile
+{
+    background-image: url("file:///C:/Users/user/Pictures/snow.png");
+    height: 500px;
+    width: 500px;
+}
+.phone
+{
+    font-family:"Bree-sefari";
+    font-size: 35px;
+    color:black;
+}
+.dummy
+{
+    border-style:solid;
+    border-color:blue;
+    border-width: 10px;
+}
