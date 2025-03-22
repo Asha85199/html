@@ -8,10 +8,35 @@
 .hello
 {
     font-family:  serif;
-    color: white;
+    color:palegoldenrod;
 }
 .heading
 {
-    font-style: Roboto;
     color:white;
+}
+.platinum
+{
+    background-color: black;
+    background-size: 50px;
+    border-radius: 10px;
+    border-color: aqua;
+    margin: 30px;
+    padding: 20px;
+
+}
+.get
+{
+    font-family: Roboto;
+    color:white;
+}
+.book
+{
+    font-family: sans-serif;
+    padding: 20px;
+}
+.put
+{
+    border-width: 1px;
+    border-radius: 5px;
+    margin-right:100px;
 }
