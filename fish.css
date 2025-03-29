@@ -1,0 +1,23 @@
+.bg
+{
+    background-image:url("file:///C:/Users/user/Pictures/sea.jfif");
+    background-size: cover;
+    height:500px;
+    width:500px;
+
+}
+.card
+{
+    background-color: white;
+    border-style:solid;
+    border-width:1px;
+    border-radius:5px ;
+    padding-left: 170px;
+}
+.button
+{
+    background-color:  lightblue;
+    width:35%;
+    border-radius:22px;
+
+}

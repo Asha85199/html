@@ -1,0 +1,20 @@
+.image
+{
+    height: 150px;
+    width:205px;
+}
+.card-container
+{
+    margin:8px;
+    border-style: solid;
+    border-width:1px;
+    border-color:grey;
+    height:63vh;
+    width: 19vw;
+    margin-top: 50px;
+    border-radius:3px;
+}
+.gap
+{
+    padding:10px;
+}

@@ -1,0 +1,39 @@
+.background
+{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    width: 400px;
+    height: 500px;
+    background-size: cover;
+}
+.church
+{   
+    border:5px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    background-size: 30px;
+    padding:20px;
+}
+.button
+{
+    background-color: blue;
+    border-radius: 5px;
+    color:white;
+    border-color: blue;
+    size: 15px;
+    margin-left: 40px;
+
+}
+.font1
+{
+    font-family: serif;
+    color: blue;
+}
+.font2
+{
+    font-family:sans-serif;
+    color:darkviolet
+}
+.margin
+{
+    margin: 15px;
+}    

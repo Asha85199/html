@@ -1,0 +1,16 @@
+.bg
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height:650px;
+    width:500px;
+    background-size: cover;
+}
+.card-container
+{
+    background-color: white;
+    padding:20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+

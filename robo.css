@@ -1,0 +1,16 @@
+.bg
+{
+    background-image: url("https://assets.ccbp.in/frontend/intermediate-rwd/robotics-bg.png");
+    background-size: cover;
+    height:100vh;
+    padding:20px;
+}
+.width
+{
+    width: 25%;
+}
+.image
+{
+    height: 100px;
+    width: 100px;
+}
